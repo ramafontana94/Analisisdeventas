@@ -12,7 +12,7 @@ Busco oportunidades laborales en relación de dependencia, en áreas de análisi
 **Herramientas:** Power BI · Excel  
 **Descripción:**  
 Dashboard interactivo basado en datos reales de una empresa de nutrición animal. Analiza ventas por zona, vendedor, tipo de producto y período mensual.  
-**Objetivo:** Visualizar el rendimiento comercial para tomar decisiones más estratégicas.
+**Objetivo:** Visualizar el rendimiento comercial para tomar decisiones más estratégicas.  
 🔗 Publicado en [mi perfil de LinkedIn](https://www.linkedin.com/in/ramiro-fontana-180641111/)
 
 
