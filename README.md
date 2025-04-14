@@ -27,8 +27,8 @@ Estudio de ofertas laborales en base a tipo de contrato, ubicación y cantidad d
 
 ## 🧰 Herramientas y Skills
 
-- Power BI (avanzado)
-- Excel (tablas dinámicas, fórmulas, dashboards)
+- Power BI (avanzado, dashboards)
+- Excel (tablas dinámicas, fórmulas)
 - Conocimientos básicos en Python y SQL
 
 ---
